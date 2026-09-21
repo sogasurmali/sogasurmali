@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sogasur-mali.github.io/sitemap.xml
